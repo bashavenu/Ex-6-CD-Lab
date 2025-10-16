@@ -1,6 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :15/10/2025
+# REG NO:2305001005
+# Date :15-10-25
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
